@@ -4,7 +4,7 @@ Trabalho de conclusão da disciplina de machine learning da pós graduação em 
 
 MVP da disciplina de Machine Learning da Pós Graduação em Ciência de Dados e Analytics pela PUC-RIO:
 
-[Notebook com o trabalho no Google Colab](MVP_Machine_Learning_Diogo_Mattos_v4.ipynb)
+[Notebook com o trabalho no Google Colab](MVP_Machine_Learning_Diogo_Mattos_v5.ipynb)
 
 
 Arquivos do dataset:
