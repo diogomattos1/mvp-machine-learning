@@ -22,5 +22,7 @@ Arquivos do dataset:
 Arquivos do extraídos para testar um novo conjunto de dados:
 
 [Arquivo "Team Stats Per 100 Possessions 2024"](https://raw.githubusercontent.com/diogomattos1/mvp-machine-learning/refs/heads/main/team-stats-per100-poss-2024.csv)
+
 [Arquivo "Opponent Stats Per 100 Possessions 2024"](https://raw.githubusercontent.com/diogomattos1/mvp-machine-learning/refs/heads/main/opponent-stats-per-100-poss-2024.csv)
+
 [Arquivo "Team Summaries 2024"](https://raw.githubusercontent.com/diogomattos1/mvp-machine-learning/refs/heads/main/team-summaries-2024.csv)
