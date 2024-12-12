@@ -7,6 +7,8 @@ MVP da disciplina de Machine Learning da Pós Graduação em Ciência de Dados e
 [Notebook com o trabalho no Google Colab](MVP_Machine_Learning_Diogo_Mattos_v5.ipynb)
 
 
+
+
 Arquivos do dataset:
 
 [Arquivo "Team Stats Per 100 Possessions"](https://raw.githubusercontent.com/diogomattos1/mvp-analise-dados/dataset/Team%20Stats%20Per%20100%20Poss.csv)
